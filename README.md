@@ -24,10 +24,10 @@ Repo này chứa các tài liệu phân tích & thiết kế ban đầu của d�
 
 | Tài liệu | Nội dung | Xem trực tiếp |
 |----------|-----------|----------------|
-| **AC_TrungtamTiengAnh.docx** | Acceptance Criteria cho các chức năng chính | [📖 Xem file](https://docs.google.com/viewer?url=https://github.com/ElevitionMinhHoang/DuAN-AI-Troly-TrungTamTiengAnh/raw/main/AC_TrungtamTiengAnh.docx) |
-| **PSS_TrungtamTA.docx** | Product Scope Statement – Phạm vi dự án | [📖 Xem file](https://docs.google.com/viewer?url=https://github.com/ElevitionMinhHoang/DuAN-AI-Troly-TrungTamTiengAnh/raw/main/PSS_TrungtamTA.docx) |
-| **USER_STORIEStrungtamtienganh.docx** | User Stories mô tả nghiệp vụ và trải nghiệm học viên | [📖 Xem file](https://docs.google.com/viewer?url=https://github.com/ElevitionMinhHoang/DuAN-AI-Troly-TrungTamTiengAnh/raw/main/USER_STORIEStrungtamtienganh.docx) |
-| **Yeu_cau_phi_chuc_nang.docx** | Các yêu cầu phi chức năng: bảo mật, hiệu năng, khả năng mở rộng | [📖 Xem file](https://docs.google.com/viewer?url=https://github.com/ElevitionMinhHoang/DuAN-AI-Troly-TrungTamTiengAnh/raw/main/Yeu%20cau%20phi%20chuc%20nang.docx) |
+| **AC_TrungtamTiengAnh.docx** | Acceptance Criteria cho các chức năng chính | 
+| **PSS_TrungtamTA.docx** | Product Scope Statement – Phạm vi dự án | 
+| **USER_STORIEStrungtamtienganh.docx** | User Stories mô tả nghiệp vụ và trải nghiệm học viên | 
+| **Yeu_cau_phi_chuc_nang.docx** | Các yêu cầu phi chức năng: bảo mật, hiệu năng, khả năng mở rộng | 
 
 > ⚠️ Lưu ý: Link trên dùng **Google Docs Viewer**, mở được trực tiếp trong trình duyệt, không cần tải về.
 
