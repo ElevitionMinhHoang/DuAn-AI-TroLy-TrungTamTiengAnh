@@ -10,7 +10,6 @@ Trợ lý hỗ trợ học viên và giáo viên trong các hoạt động như:
 
 Repo này chứa các tài liệu phân tích & thiết kế ban đầu của dự án.
 
----
 
 ## 🎯 Mục tiêu
 1. Xây dựng trợ lý học tập thông minh, thân thiện.  
@@ -18,7 +17,6 @@ Repo này chứa các tài liệu phân tích & thiết kế ban đầu của d�
 3. Hỗ trợ giáo viên theo dõi tiến độ, đưa ra nhận xét nhanh chóng.  
 4. Tạo nền tảng mở rộng để tích hợp với LMS/CRM trong tương lai.  
 
----
 
 ## 📂 Tài liệu dự án
 
@@ -29,9 +27,7 @@ Repo này chứa các tài liệu phân tích & thiết kế ban đầu của d�
 | **USER_STORIEStrungtamtienganh.docx** | User Stories mô tả nghiệp vụ và trải nghiệm học viên | 
 | **Yeu_cau_phi_chuc_nang.docx** | Các yêu cầu phi chức năng: bảo mật, hiệu năng, khả năng mở rộng | 
 
-> ⚠️ Lưu ý: Link trên dùng **Google Docs Viewer**, mở được trực tiếp trong trình duyệt, không cần tải về.
-
----
+----
 
 ## 🚀 Cách sử dụng Repo
 1. Clone về máy:
