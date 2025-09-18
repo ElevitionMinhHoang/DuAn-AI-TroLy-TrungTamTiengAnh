@@ -22,8 +22,8 @@ Repo này chứa các tài liệu phân tích & thiết kế ban đầu của d�
 
 ## 📂 Tài liệu dự án
 
-| Tài liệu | Nội dung | Xem trực tiếp |
-|----------|-----------|----------------|
+| Tài liệu | Nội dung |
+|----------|-----------|
 | **AC_TrungtamTiengAnh.docx** | Acceptance Criteria cho các chức năng chính | 
 | **PSS_TrungtamTA.docx** | Product Scope Statement – Phạm vi dự án | 
 | **USER_STORIEStrungtamtienganh.docx** | User Stories mô tả nghiệp vụ và trải nghiệm học viên | 
